@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server providing real-time Bitcoin blockchain and mempool data, powered by [mempool.space](https://mempool.space/) APIs. Use this server as a tool provider in your MCP-compatible clients (like Claude, Cursor, and others) to access up-to-date Bitcoin network information. Its an unofficial repository.
 
+<a href="https://glama.ai/mcp/servers/@alexandresanlim/mempool-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@alexandresanlim/mempool-mcp-server/badge" alt="Mempool Server MCP server" />
+</a>
+
 ---
 
 ## 🛠️ Available Bitcoin Tools
